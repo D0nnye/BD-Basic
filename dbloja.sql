@@ -46,3 +46,8 @@ insert into tbUsuarios(nome,senha) values('gui.paulo','521486');
 -- vizualizar os registros da tabela
 select * from tbFuncionarios;
 select * from tbUsuarios;
+
+-- alterando os registros
+update tbUsuarios set senha = '596669' where codusu =1;
+
+select * from tbUsuarios;
