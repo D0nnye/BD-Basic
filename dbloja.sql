@@ -82,7 +82,7 @@ delete from tbUsuarios where codusu = 2;
 select * from tbUsuarios;
 
 -- Alterar os valores para 10%
-update tbProdutos set preco = preco * 1.10 where preco > 21.00;
+-- update tbProdutos set preco = preco * 1.10 where preco > 21.00;
 
 
 -- Buscar por código
@@ -92,4 +92,6 @@ update tbProdutos set preco = preco * 1.10 where preco > 21.00;
 -- select * from tbProdutos where descricao like '%a%'
 
 -- Buscar com distinc 
-select distinct descricao from tbprodutos;
+-- select distinct descricao from tbprodutos;
+
+
