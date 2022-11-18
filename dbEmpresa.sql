@@ -95,3 +95,29 @@ select * from tbFornecedores;
 select * from tbProdutos;
 select * from tbClientes;
 select * from tbVendas;
+
+-- Inner Join 
+--select prod.descricao, vend.quantidade
+--from tbVendas as vend
+--inner join tbProdutos as prod
+--on vend.codProd = prod.codProd;
+
+--select prod.descricao, forn.nome from tbProdutos as prod
+--inner join tbFornecedores as forn
+--on prod.codForn = forn.codForn;
+
+--select prod.descricao, cli.nome, usu.nome from tbVendas as vend
+--inner join tbProdutos as prod on vend.codProd = prod.codProd
+--inner join tbClientes as cli on vend.codCli = cli.codCli
+--inner join tb tbUsuarios as usu on vend.codUsu = usu.codUsu;
+
+select prod.descricao, prod.quantidade, forn.nome, func.nome
+from tbVendas as vend
+inner join tbProdutos as prod on prod.codProd = vend.codProd
+inner join tbFornecedores as forn on forn.codForn = prod.codForn
+inner join tbUsuarios as usu on vend.codusu	= usu.codUsu
+inner join tbFuncionarios as func on usu.codFunc = func.codFunc
+where vend.codProd = 1;
+
+
+
