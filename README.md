@@ -12,9 +12,6 @@
 - [Documentação](#documentacao)
 - [Aplicação Web](#web)
 - [Aplicação Mobile](#mobile)
-- [Testes](#testes)
-- [Como Contribuir](#contribuir)
-- [Licença](#licenca)
 
 ## Sobre
 
@@ -94,6 +91,7 @@ demandarem esforço e tempo.
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
 ---
 
