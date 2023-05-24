@@ -85,52 +85,6 @@ demandarem esforço e tempo.
 
 <a id="mobile"></a>
 
-### Aplicação Mobile
-
-
-### Área do Usuário:
-#### Pedidos:
-
-<h3 align="center">
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/app-usuario-1.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/app-usuario-2.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/app-usuario-3.png?raw=true">
-</h3>
-
-<h3 align="center">
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/app-usuario-4.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/empresa-1.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/empresa-2.png?raw=true">
-</h3>
-
-<h3 align="center">
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/empresa-3.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/empresa-4.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/empresa-5.png?raw=true">
-</h3>
-
-#### Carrinho de Compra:
-
-<h3 align="center">
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/cart-1.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/cart-2.png?raw=true">
-</h3>
-
-#### Detalhes do Pedido:
-
-<h3 align="center">
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/cart-4.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/cart-adicionais-1.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/cart-adicionais-2.png?raw=true">
-</h3>
-
-#### Cupons de Desconto: 
-
-<h3 align="center">
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/cupom-1.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/cupom-2.png?raw=true">
-</h3>
-
 #### Área do Entregador: 
 
 <h3 align="center">
