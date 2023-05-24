@@ -11,7 +11,9 @@
 - [Sobre](#sobre)
 - [Documentação](#documentacao)
 - [Aplicação Web](#web)
-- [Aplicação Mobile](#mobile)
+- [Como Contribuir](#contribuir)
+- [Licença](#licenca)
+
 
 ## Sobre
 
