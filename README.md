@@ -70,7 +70,7 @@ demandarem esforço e tempo.
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/home.png?raw=true)
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/login.png?raw=true)
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/registro.png?raw=true)
-#### Painel Administrativo
+#### Sistema
 #### Usuário:
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/pedidos.png?raw=true)
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/perfil.png?raw=true)
@@ -84,14 +84,6 @@ demandarem esforço e tempo.
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/pedidos-web-3.png?raw=true)
 
 <a id="mobile"></a>
-
-#### Área do Entregador: 
-
-<h3 align="center">
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/entregador-1.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/entregador-2.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/entregador-3.png?raw=true">
-</h3>
 
 #### Push Notification e E-mail:
 
