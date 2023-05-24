@@ -100,21 +100,6 @@ demandarem esforço e tempo.
 <img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/email.png?raw=true">
 </h3>
 
-## Testes
-### Unitário:
-![](https://github.com/julionery/docs/blob/master/WebDelivery/unitario.png?raw=true)
-
-### Funcional:
-![](https://github.com/julionery/docs/blob/master/WebDelivery/funcional.png?raw=true)
-
-### Estresse:
-![](https://github.com/julionery/docs/blob/master/WebDelivery/stress.png?raw=true)
-
-### Análise Estática:
-![](https://github.com/julionery/docs/blob/master/WebDelivery/estatica.png?raw=true)
-
-<a id="contribuir"></a>
-
 ## :link: Como contribuir
 
 - Faça um **fork** do projeto;
