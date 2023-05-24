@@ -4,7 +4,7 @@
 <h1 align="center">Aqui seu lixo</h1>
 <h3 align="center">Sistema de gestão e mapeamento utilizando as plataformas web.</h3>
 
-<h3 align="center"> :mortar_board: Projeto Final de Curso utilizando PHP+Laravel+Ionic+Angular+Cordova.</h3>
+<h3 align="center"> :mortar_board: Projeto integradi final do curso técnico de informatica utilizando HTML+CSS+JS+Mustache+Typescript+MySQL+Node.</h3>
 
 # Índice
 
