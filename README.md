@@ -79,18 +79,8 @@ demandarem esforço e tempo.
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/empresas.png?raw=true)
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/cadastro-empresa.png?raw=true)
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/relatorios.png?raw=true)
-![](https://github.com/julionery/docs/blob/master/WebDelivery/pedidos-web.png?raw=true)
-![](https://github.com/julionery/docs/blob/master/WebDelivery/pedidos-web-2.png?raw=true)
-![](https://github.com/julionery/docs/blob/master/WebDelivery/pedidos-web-3.png?raw=true)
 
 <a id="mobile"></a>
-
-#### Push Notification e E-mail:
-
-<h3 align="center">
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/push.png?raw=true">&nbsp;&nbsp;
-<img width="250px" src="https://github.com/julionery/docs/blob/master/WebDelivery/email.png?raw=true">
-</h3>
 
 ## :link: Como contribuir
 
