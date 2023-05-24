@@ -81,10 +81,10 @@ demandarem esforço e tempo.
 
 ## :link: Como contribuir
 
-- Faça um **fork** do projeto;
-- Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-- Salve as alterações e crie uma mensagem de commit contando o que você fez:`git commit -m "feature: My new feature"`
-- Envie as suas alterações: `git push origin my-feature`
+- Crie um novo repositório;
+- Faça suas alterações
+- Teste suas alterações
+- Submit um pull request
 
 ---
 
