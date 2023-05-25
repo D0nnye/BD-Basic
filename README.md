@@ -15,12 +15,8 @@
 
 ## Sobre
 
-À princípio, foram identificados problemas, os quais justificam a elaboração do
-projeto, tais como atraso e falhas no atendimento, falta de informações sobre os
-produtos e pedidos, que ocasiona insatisfações de clientes. Visando a solucionar essas
-dificuldades, foi levantado a hipótese para o desenvolvimento de uma aplicação web que realiza
-todo o controle das informações e uma aplicação mobile híbrida que confere as informações
-dos produtos e pedidos e realiza pedidos de forma ágil e prática.
+
+Durante a concepção do projeto, foram identificadas questões problemáticas que fundamentam sua elaboração, incluindo a escassez de informações e a falta de localização precisa, resultando no desinteresse do cliente em relação ao tópico. Com o intuito de solucionar esses problemas, propôs-se o desenvolvimento de uma aplicação web com o objetivo de fornecer dados abrangentes sobre reciclagem, além de disponibilizar um mapa interativo que atua como um intermediário entre os usuários e os pontos de coleta de resíduos eletrônicos espalhados pela cidade de São Paulo.
 
 A plataforma web foi desenvolvida mantendo uma estrutura harmônica entre as páginas,
 desse modo os formulários disponíveis para o usuário são intuitivos, facilitando sua utilização.
