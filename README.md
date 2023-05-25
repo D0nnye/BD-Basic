@@ -18,20 +18,10 @@
 
 Durante a concepção do projeto, foram identificadas questões problemáticas que fundamentam sua elaboração, incluindo a escassez de informações e a falta de localização precisa, resultando no desinteresse do cliente em relação ao tópico. Com o intuito de solucionar esses problemas, propôs-se o desenvolvimento de uma aplicação web com o objetivo de fornecer dados abrangentes sobre reciclagem, além de disponibilizar um mapa interativo que atua como um intermediário entre os usuários e os pontos de coleta de resíduos eletrônicos espalhados pela cidade de São Paulo.
 
-A plataforma web foi desenvolvida mantendo uma estrutura harmônica entre as páginas,
-desse modo os formulários disponíveis para o usuário são intuitivos, facilitando sua utilização.
-Mantendo a usabilidade do usuário todo o projeto é responsivo, dessa forma, o mesmo pode
-acessar de diferentes dispositivos, com dimensões de telas diferentes, que a aplicação se adapta
-e redimensiona-se nos diferentes tipos de tela. O processo de desenvolvimento exigiu muita
-pesquisa, a fim de manter as usabilidades e funcionalidades para o usuário.
 
-A aplicação mobile híbrida está totalmente voltada para o cliente e entregador, por meio
-dela que os mesmos realizam e acompanham os pedidos com agilidade e praticidade. Estão
-disponíveis o acompanhamento do entregador em tempo real através do Google Maps integrado
-ao aplicativo, ler cupom de desconto via QR-Code e receber as notificações sobre o pedido.
-Essa etapa foi muito desgastante, devido à complexidade para realizar a manipulação das
-informações entre as plataformas, realização dos tratamentos de exceções e regras de negócio
-demandarem esforço e tempo.
+A camada web do projeto foi implementada com uma estrutura coesa entre as páginas, visando aprimorar a experiência do usuário. Para garantir a usabilidade em diversos dispositivos, foi adotada uma abordagem de design responsivo, permitindo que a aplicação se adapte e redimensione de forma adequada em diferentes tipos de tela, levando em consideração suas dimensões e características específicas. Essa abordagem assegura que os usuários possam acessar a aplicação de maneira eficiente, independentemente do dispositivo utilizado.
+
+A componente do sistema é concebida exclusivamente para uso interno, com o propósito de permitir que os desenvolvedores monitorem os dados dos usuários provenientes da camada web, realizem consultas e efetuem alterações de forma criteriosa, conforme necessidade e requisitos específicos.
 
 
 <a id="documentacao"></a>
