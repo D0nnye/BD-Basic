@@ -1,7 +1,6 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="250px" src="https://github.com/D0nnye/BD-Basic/blob/main/Logo%20Tipo.png?raw=true">
 </h3>
-<h1 align="center">Aqui seu lixo</h1>
 <h3 align="center">Sistema de gestão e mapeamento utilizando as plataformas web.</h3>
 
 <h3 align="center"> :mortar_board: Projeto integrador final do curso técnico de informatica utilizando HTML+CSS+JS+Mustache+Typescript+MySQL+Node.</h3>
