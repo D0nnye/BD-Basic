@@ -55,17 +55,6 @@ Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os u
 ## Continuação da home
 ![](https://github.com/D0nnye/BD-Basic/blob/main/Home%20Meio.png?raw=true)
 
-
-#### Sistema
-#### Usuário:
-![](https://github.com/julionery/docs/blob/master/WebDelivery/pedidos.png?raw=true)
-![](https://github.com/julionery/docs/blob/master/WebDelivery/perfil.png?raw=true)
-
-#### Administrativo:
-![](https://github.com/julionery/docs/blob/master/WebDelivery/empresas.png?raw=true)
-![](https://github.com/julionery/docs/blob/master/WebDelivery/cadastro-empresa.png?raw=true)
-![](https://github.com/julionery/docs/blob/master/WebDelivery/relatorios.png?raw=true)
-
 <a id="mobile"></a>
 
 ## :link: Como contribuir
