@@ -52,6 +52,10 @@ Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os u
 
 ![](https://github.com/D0nnye/BD-Basic/blob/main/Home%20Inicio.png?raw=true)
 
+### Continuação da home
+![](https://github.com/D0nnye/BD-Basic/blob/main/Home%20Meio.png?raw=true)
+
+
 #### Sistema
 #### Usuário:
 ![](https://github.com/julionery/docs/blob/master/WebDelivery/pedidos.png?raw=true)
