@@ -59,7 +59,6 @@ Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os u
 
 <a id="mobile"></a>
 
-## :link: Como contribuir
 
 <a id="contribuir"></a>
 ## :link: Como executar e contribuir
@@ -68,21 +67,21 @@ Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os u
 
 	Vá até o local onde deseja salvar o projeto, abra o cmd e execute:
 	```
-	git clone https://github.com/NathanSnt/PI
-	cd PI
+	git clone https://github.com/thiagossconceicao1/atualiza-o-typescri-t
+	cd atualiza-o-typescri-t
 	npm install
 	```
 
 
 - **Suba o banco de dados**
 
-	Dentro da pasta PI tem um arquivo chamado `db_alertrem.sql` que, contém o script necessário para a criação do banco.
+	Dentro da pasta PI tem um arquivo chamado `dbaquiseulixo.sql` que, contém o script necessário para a criação do banco.
 	Execute ele um SGBD de sua preferência.
 
 
 - **Configure variáveis de ambiente**
 
-	Ainda dentro da pasta PI, existe um arquivo chamado `.env`.
+	Ainda dentro da pasta atualiza-o-typescri-t, existe um arquivo chamado `.env`.
 	Abra ele em qualquer editor de código para conseguir realizar as configurações necessárias.
 
 	Variáveis:
@@ -106,14 +105,14 @@ Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os u
 
 - **Execute o servidor**
 
-	Volte ao cmd na pasta PI e execute:
+	Volte ao cmd na pasta atualiza-o-typescri-t e execute:
 	```
 	npm run start-dev
 	```
 
 E pronto! Se tudo estiver corretamente configurado, o servidor ja vai estar online.
 
-para acessa-lo, abra um navegador da sua preferência e coloque o ip da máquina que está executando o servidor mais a porta que ele foi configurado.
+para acessa-lo, abra um navegador da sua preferência e coloque o IP da máquina que está executando o servidor mais a porta que ele foi configurado.
 `10.0.0.10:8080` por exemplo; Ou `localhost:8080` caso o servidor esteja sendo executado em sua máquina e na porta 8080.
 
 ---
