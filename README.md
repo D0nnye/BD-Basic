@@ -10,8 +10,8 @@
 - [João](https://github.com/PROGRAMADORTAVINHO)
 - [Thiago](https://github.com/thiagossconceicao1)
 - [Guilherme](https://github.com/GuiOliveiraR)
-- [Matheus]()
-- [Victor]()
+- [Matheus](https://github.com/Mts1God)
+- [Victor](https://github.com/VQueiroz6)
 
 # Índice
 
