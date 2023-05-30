@@ -6,6 +6,8 @@
 
 <h3 align="center"> :mortar_board: Projeto integrador final do curso técnico de informatica utilizando HTML+CSS+JS+Mustache+Typescript+MySQL+Node.</h3>
 
+## Integrantes
+
 # Índice
 
 - [Sobre](#sobre)
