@@ -11,7 +11,7 @@
 - [Sobre](#sobre)
 - [Documentação](#documentacao)
 - [Aplicação Web](#web)
-- [Como Contribuir](#contribuir)
+- [Como Executar e Contribuir](#contribuir)
 
 ## Sobre o projeto
 
@@ -59,10 +59,59 @@ Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os u
 
 ## :link: Como contribuir
 
-- Crie um novo repositório;
-- Faça suas alterações
-- Teste suas alterações
-- Submit um pull request
+# Como executar e contribuir
+
+- **Clone e instale as dependências**
+
+	Vá até o local onde deseja salvar o projeto, abra o cmd e execute:
+	```
+	git clone https://github.com/NathanSnt/PI
+	cd PI
+	npm install
+	```
+
+
+- **Suba o banco de dados**
+
+	Dentro da pasta PI tem um arquivo chamado `db_alertrem.sql` que, contém o script necessário para a criação do banco.
+	Execute ele um SGBD de sua preferência.
+
+
+- **Configure variáveis de ambiente**
+
+	Ainda dentro da pasta PI, existe um arquivo chamado `.env`.
+	Abra ele em qualquer editor de código para conseguir realizar as configurações necessárias.
+
+	Variáveis:
+	- `PORT` (Porta na qual o servidor estará sendo executado);
+	- `MYSQL_DB` (Nome do banco de dados)
+	- `MYSQL_USER` (Usuário para obter acesso ao banco)
+	- `MYSQL_PASSWORD` (Senha do usuário)
+	- `MYSQL_PORT` (Porta na qual o banco está sendo executado)
+	- `MYSQL_HOST` (IP do servidor de banco de dados)
+
+
+- **Crie um usuário no banco de dados**
+
+	Acesse o banco e execute o seguinte comando:
+	```
+	CREATE USER 'alertrem'@'%' IDENTIFIED BY 'alertrem';
+	GRANT ALL ON db_alertrem.* TO 'alertrem'@'%';
+	FLUSH PRIVILEGES;
+	```
+
+
+- **Execute o servidor**
+
+	Volte ao cmd na pasta PI e execute:
+	```
+	npm run start-dev
+	```
+
+E pronto! Se tudo estiver corretamente configurado, o servidor ja vai estar online.
+
+para acessa-lo, abra um navegador da sua preferência e coloque o ip da máquina que está executando o servidor mais a porta que ele foi configurado.
+`10.0.0.10:8080` por exemplo; Ou `localhost:8080` caso o servidor esteja sendo executado em sua máquina e na porta 8080.
 
 ---
 
