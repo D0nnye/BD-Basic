@@ -97,8 +97,8 @@ Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os u
 
 	Acesse o banco e execute o seguinte comando:
 	```
-	CREATE USER 'alertrem'@'%' IDENTIFIED BY 'alertrem';
-	GRANT ALL ON db_alertrem.* TO 'alertrem'@'%';
+	CREATE USER 'João'@'%' IDENTIFIED BY 'João';
+	GRANT ALL ON dbaquiseulixo.* TO 'João'@'%';
 	FLUSH PRIVILEGES;
 	```
 
