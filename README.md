@@ -13,7 +13,7 @@
 - [Aplicação Web](#web)
 - [Como Contribuir](#contribuir)
 
-## Sobre
+## Sobre o projeto
 
 
 Durante a concepção do projeto, foram identificadas questões problemáticas que fundamentam sua elaboração, incluindo a escassez de informações e a falta de localização precisa, resultando no desinteresse do cliente em relação ao tópico. Com o intuito de solucionar esses problemas, propôs-se o desenvolvimento de uma aplicação web com o objetivo de fornecer dados abrangentes sobre reciclagem, além de disponibilizar um mapa interativo que atua como um intermediário entre os usuários e os pontos de coleta de resíduos eletrônicos espalhados pela cidade de São Paulo.
