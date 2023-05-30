@@ -6,7 +6,13 @@
 
 <h3 align="center"> :mortar_board: Projeto integrador final do curso técnico de informatica utilizando HTML+CSS+JS+Mustache+Typescript+MySQL+Node.</h3>
 
-## Integrantes
+# Integrantes
+- [Lucas](https://github.com/BrunoJoGomes)
+- [João](https://github.com/PROGRAMADORTAVINHO)
+- [Thiago](https://github.com/thiagossconceicao1)
+- [Guilherme](https://github.com/GuiOliveiraR)
+- [Matheus]()
+- [Victor]()
 
 # Índice
 
