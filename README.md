@@ -57,9 +57,9 @@ A componente do sistema é concebida exclusivamente para uso interno, com o prop
 
 <a id="web"></a>
 
-### Aplicação Web
+## Aplicação Web
 ---
-## Home
+### Home
 Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os usuários terão acesso a recursos essenciais, como um mapa interativo que exibe a localização das lixeiras de eletrônicos mais próximas de sua área geográfica. Além disso, serão disponibilizadas informações técnicas e detalhadas sobre o processo de reciclagem de eletrônicos, incluindo diretrizes específicas para a correta disposição desses resíduos. O site também apresentará notícias atualizadas e relevantes relacionadas ao tema da reciclagem de eletrônicos, mantendo os usuários informados sobre as últimas novidades e desenvolvimentos nessa área.
 
 ![](https://github.com/D0nnye/BD-Basic/blob/main/Home%20Inicio.png?raw=true)
