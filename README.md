@@ -67,7 +67,9 @@ Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os u
 ### Continuação da home
 ![](https://github.com/D0nnye/BD-Basic/blob/main/Home%20Meio.png?raw=true)
 
-###
+### Sobre nós
+A Sobre Nós é uma página dedicada a contar a história da nossa empresa, Aqui seu Lixo, destacando nossos valores, missão e visão, assim como reconhecendo o papel essencial dos nossos funcionários que tornaram tudo isso possível.
+![](https://github.com/D0nnye/BD-Basic/blob/main/Sobre%20nos.png)
 
 <a id="mobile"></a>
 
