@@ -62,7 +62,7 @@ Home é a interface de boas-vindas do site da Aqui seu lixo. Nessa página, os u
 ## :link: Como contribuir
 
 <a id="contribuir"></a>
-# Como executar e contribuir
+## :link: Como executar e contribuir
 
 - **Clone e instale as dependências**
 
